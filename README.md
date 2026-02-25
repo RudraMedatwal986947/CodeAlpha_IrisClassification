@@ -1,3 +1,9 @@
+## 📊 Pairplot Visualization
+![Pairplot](screenshots/pairplot.png)
+
+## 📈 Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
 >Iris Flower Classification – CodeAlpha Internship Task
 >Project Overview
 
@@ -42,5 +48,6 @@
 >Petal length and petal width were the most influential features.
 
 >Conclusion
+
 
 >The project demonstrates core classification concepts including preprocessing, model training, evaluation, and validation. The Iris dataset provides a strong foundation for >understanding supervised learning techniques.
